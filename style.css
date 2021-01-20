@@ -1,0 +1,25 @@
+h1{
+    color: firebrick;
+    background-color: yellow;
+    text-align: center;
+    font-size: x-large;
+}
+p{
+    color: red;
+    text-align: left;
+    text-emphasis: size after 50px;;
+}
+h2{
+    color: darkgreen;
+    background-color: darkgrey;
+    text-align: center;
+}
+ul{
+    text-align: justify;
+    font-size: x-large;
+    background-color: rgb(12, 12, 11);
+    background-size: auto;
+}
+section{
+    color: rgb(41, 161, 87);
+}
